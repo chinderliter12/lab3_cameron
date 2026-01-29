@@ -6,5 +6,6 @@
             Age: <input type="text" name="age"></br></br>
             <input type="submit">
         </form>
+        <?php echo "hello"; ?>
     </body>
 </html>
